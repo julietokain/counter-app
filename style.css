@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: white;
+}
+#container{
+    width:500px;
+    height:200px;
+    border:5px solid rgb(13, 13, 13);
+    margin: auto;
+    margin-top: 50px;
+    border-radius:10px ;
+    background-color: rgb(231, 246, 250);
+} 
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+}
+#number{
+    height: 25px;
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
+}
+#increment{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 125px;;
+}
+#decrement{
+    height: 25px;
+    width: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
